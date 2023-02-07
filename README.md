@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### hese euy pertama kali nga pull wkwkwk, tapi alhamdulillah ayeunamah nggeus bisa hehe
+
 <!--
 **fortizzaire/fortizzaire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
