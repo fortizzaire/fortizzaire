@@ -82,11 +82,11 @@ img {
 }
 
 .navbar.scrolling-active {
-  background-color: var(--c-brand-light);
+  background-color: var(--c-brand);
 }
 
 .navbar-nav .nav-link.active {
-  color: #00f7ff;
+  color: #abedff;
 }
 
 .btn {
