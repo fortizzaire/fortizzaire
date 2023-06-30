@@ -22,11 +22,11 @@ AOS.init({
 
   const element = document.getElementById("icon")
 
-  // icon.onclick = function() {
-  //   document.body.classList.toggle("dark-theme");
-  //   if(document.body.classList.contains("dark-theme")) {
-  //       icon.innerHTML = "Light Mode";
-  //   } else {
-  //       icon.innerHTML = "Dark Mode";
-  //   }
-  // };
+  icon.onclick = function() {
+    document.body.classList.toggle("dark-theme");
+    if(document.body.classList.contains("dark-theme")) {
+        icon.innerHTML = "Light Mode";
+    } else {
+        icon.innerHTML = "Dark Mode";
+    }
+  };
